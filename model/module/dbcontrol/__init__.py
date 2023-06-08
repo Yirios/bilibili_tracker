@@ -1,0 +1,1 @@
+from .insertdata import database
