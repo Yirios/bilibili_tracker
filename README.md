@@ -1,6 +1,6 @@
 # bilibili_tracker
 
-**<center>写在前面：这是一个数据库课程的大作业</center>**
+**<center>写在前面：这是一个数据库课程的大作业，现在由于bilibili-api-python库有些问题无法运行</center>**
 
 ## 一些准备与使用方法
 
